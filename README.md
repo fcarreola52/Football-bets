@@ -9,14 +9,14 @@ The purpose of this project was to train a classification model to predict wheth
    - Run the command: `pip install -r requirements.txt`
 
 3. **Data Wrangling Notebook:**
-   - Open and run the notebook named `Data_Wrangling.ipynb`. The version with outputs included is available in PDF format due to its size.
+   - Open and run the notebook named `Data_Wrangling.ipynb`. The version with outputs included is available in PDF format (`Data_Wrangling.pdf`) due to its size.
 
 4. **Modeling Notebook:**
    - Open and run the notebook named `modeling.ipynb`.
 
 ### Additional Information:
 
-- A detailed report is included in the project documentation.
+- A detailed report named `Report.pdf`  is included in the project documentation.
 
 
 
